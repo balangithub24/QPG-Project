@@ -17,7 +17,6 @@ Year: **2025**
 | **Student** | `student` | `student123` |
 
 > ⚠️ *Note:* These credentials are for testing and demonstration purposes only.  
-> Please update them in production for security reasons.
 
 ---
 
